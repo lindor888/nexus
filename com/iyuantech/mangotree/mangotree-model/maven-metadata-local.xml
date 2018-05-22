@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.iyuantech.mangotree</groupId>
+  <artifactId>mangotree-model</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180522081153</lastUpdated>
+  </versioning>
+</metadata>
